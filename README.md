@@ -6,7 +6,7 @@ Yet Another Dialog Pages include that is slick and simple, using advanced techno
 
 You can install it as sampctl package (not recommended because sampctl is sucks and dead at this point):
 ```bash
-sampctl install ohmypxl/pp-dialo-pages
+sampctl install ohmypxl/pp-dialog-pages
 ```
 Or download it from the release section
 
