@@ -1,0 +1,11 @@
+site: "github.com"
+user: ohmypxl
+repo: pp-dialog-pages
+include_path: include
+
+dev_dependencies:
+    - pawn-lang/YSI-Includes@5.x
+
+dependencies:
+    - pawn-lang/samp-stdlib
+    - IS4Code/PawnPlus:v1.4.2
